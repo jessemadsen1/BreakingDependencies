@@ -13,20 +13,6 @@ namespace TestProject1
         }
 
         [Test]
-        public void TestAddBananaMoreThanInventory()
-        {
-        }
-        [Test]
-        public void TestAddBanana()
-        {
-        }
-
-        [Test]
-        public void MultipleCarts()
-        {
-        }
-
-        [Test]
 
         public void CountButtonClick()
         {

@@ -5,8 +5,6 @@ VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject1", "TestProject1\TestProject1.csproj", "{074AAFB5-4951-4832-B819-DFD4CBD73633}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{CAEE8ABF-0293-4CCC-B329-28EDDF570261}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{4A9626FD-7413-415F-8FDB-F5A500402BB1}"
 EndProject
 Global
@@ -19,10 +17,6 @@ Global
 		{074AAFB5-4951-4832-B819-DFD4CBD73633}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{074AAFB5-4951-4832-B819-DFD4CBD73633}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{074AAFB5-4951-4832-B819-DFD4CBD73633}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CAEE8ABF-0293-4CCC-B329-28EDDF570261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CAEE8ABF-0293-4CCC-B329-28EDDF570261}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CAEE8ABF-0293-4CCC-B329-28EDDF570261}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CAEE8ABF-0293-4CCC-B329-28EDDF570261}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4A9626FD-7413-415F-8FDB-F5A500402BB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4A9626FD-7413-415F-8FDB-F5A500402BB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A9626FD-7413-415F-8FDB-F5A500402BB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
